@@ -85,6 +85,6 @@ def panduan(file,trim_1=30,trim_2=30,ratio=2,interv=7, ignore=40):
     #plt.plot(record_t[0], record_t[1], color='white',marker='*',mec='b', mfc='w')
     #plt.plot(record_c[0], record_c[1], color='white',marker='o',mec='y', mfc='w')
     #plt.plot(record_g[0], record_g[1], color='white',marker='o',mec='g', mfc='w')
-    #plt.show()
+    plt.show()
 
 
